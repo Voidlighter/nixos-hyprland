@@ -249,7 +249,7 @@ Alright, I'm going to clone a couple of my dotfiles for my terminal, my hyprland
 mkdir ~/nixos-dotfiles/config
 cd ~/nixos-dotfiles/config
 git clone https://github.com/tonybanters/hypr
-git clone https://github.com/tonybanters/waybay
+git clone https://github.com/tonybanters/waybar
 git clone https://github.com/tonybanters/foot
 #+end_src
 
