@@ -264,7 +264,7 @@ home.file.".config/foot".source = ./config/foot;
 And we can rebuild like so:
 
 #+begin_src
-sudo nixos-rebuild swith --flake ~/nixos-dotifles#hyprland-btw
+sudo nixos-rebuild switch --flake ~/nixos-dotifles#hyprland-btw
 #+end_src
 
 * Nix Search TV
